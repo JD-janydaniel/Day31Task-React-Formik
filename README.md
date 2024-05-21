@@ -21,6 +21,15 @@ Create an admin dashboard for a library management system that allows users to m
 <li>The code should be submitted in a Git repository, with a clear commit history that demonstrates the development process.</li>
 </ol>
 
+## How to run the App
+<ul>
+  <li>In the library app Dashboard page shows the details of the mokAPI in the table</li>
+  <li>In the Managelibrary page it displays the details of the Book & Author in the table in this page we can Edit and Delete the user</li>
+  <li>If you click the Edit button in the Managelibrary page it will navigate you to the Edit page in this page you can edit the details of the Book and Author and update it</li>
+  <li>And you can delete the details of the Book and Author</li>
+  <li>You can also create the details of the Book and Author in create page</li>
+</ul>
+
 ## MokAPI Linl
 
 https://6646051751e227f23aad6ba3.mockapi.io/api/books
